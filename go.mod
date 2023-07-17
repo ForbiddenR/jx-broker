@@ -1,4 +1,4 @@
-module github.com/ForbiddenR/jx-broker
+module github.com/ForbiddenR/jxbroker
 
 go 1.20
 
